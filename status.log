@@ -2,3 +2,7 @@
 2023-01-25 17:32:08,990 - __main__ - INFO - Token not avilabe!!
 2023-01-25 22:35:39,944 - __main__ - INFO - Token value: Token not available!
 2023-01-25 22:35:41,790 - __main__ - INFO - Weather in Berlin: 0.67
+2023-01-26 09:34:52,227 - __main__ - INFO - Token value: Token not available!
+2023-01-26 09:34:54,605 - __main__ - INFO - Weather in Berlin: -0.16
+2023-01-31 23:27:57,690 - __main__ - INFO - Token value: Token not available!
+2023-01-31 23:27:59,829 - __main__ - INFO - Weather in Berlin: 5.24
