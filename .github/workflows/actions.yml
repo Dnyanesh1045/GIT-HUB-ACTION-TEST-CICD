@@ -39,7 +39,7 @@ jobs:
           # diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
       - name: push changes
-        uses: Dnyanesh1045/GIT-HUB-ACTION-TEST-CICD/action@v0.6.0
+        uses: Dnyanesh1045/GIT-HUB-ACTION-TEST-CICD/action@main
         with:
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
